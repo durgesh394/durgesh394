@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bramhanand Garg 
+- 👋 Hi, I’m B.N Garg 
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning node js
 - 💞️
